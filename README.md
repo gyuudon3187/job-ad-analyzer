@@ -1,5 +1,5 @@
 # Job Ad Analyzer
-A website where users can submit job descriptions to get help analyzing key subjects, and generate tailored CVs or cover letters based on the job ad analysis and user-submitted work experience and education.
+A website where users can submit job ad descriptions to get help analyzing key subjects, and generate tailored CVs or cover letters based on the job ad analysis and user-submitted work experience and education.
 
 ## Project Overview
 This project provides a website where users can upload job descriptions from job ads to get help from a Large Language Model (LLM) in analyzing the most important subjects mentioned. The importance of each subject is evaluated on a scale of 1 to 10. 
